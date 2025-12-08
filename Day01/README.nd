@@ -1,0 +1,85 @@
+🐍 Day 01 – Python Basics (Simple Explanation)
+
+Today we learn the most basic things in Python:
+
+How to store data
+How to display output
+How to do calculations
+How variables work
+How formulas work
+
+Everything is explained in simple English.
+
+1. Printing Output (print statement)
+What we do:
+We show text or values on the screen.
+Syntax:
+print("your text")
+Example:
+print("Hello World")
+
+Explanation:
+print is a command used to display something.
+Anything inside " is printed exactly as it is.
+Python runs top to bottom, so printing happens in order.
+
+2. Variables (storing information)
+What we do:
+We store values like name, age, or numbers.
+Syntax:
+variable_name = value
+Example:
+name = "Hardik"
+age = 20
+
+Explanation:
+= is used to assign a value.
+"Hardik" is a string (text).
+20 is an integer (number).
+Variables help us reuse data later in the program.
+
+3. Basic Arithmetic (Addition)
+What we do:
+We add numbers using the + operator.
+Syntax:
+result = number1 + number2
+Example:
+sum_value = 10 + 20
+
+Explanation:
++ adds two values.
+The result is stored in a variable.
+Python supports:
++ (add), - (subtract), * (multiply), / (divide)
+
+4. Swapping Values (a simple logic)
+What we do:
+We exchange the values of two variables.
+Syntax:
+a, b = b, a
+Example:
+If a had 5 and b had 10, after swapping:
+a becomes 10
+b becomes 5
+
+Explanation:
+Python allows swapping in one line using multiple assignment.
+This is easier than using a temporary variable.
+
+5. Using Formulas (Area of a Circle)
+What we do:
+We calculate the area using the formula:
+Area = π × r × r
+
+Syntax:
+area = pi * radius * radius
+Example:
+If radius = 7, the area is calculated using the formula.
+
+Explanation:
+* is multiplication
+Python follows math rules
+
+
+With this Day 01 of python is complete !!!
+Variables help us store values like pi and radius
