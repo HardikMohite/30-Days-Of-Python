@@ -78,11 +78,17 @@ x %= 2     (x = x % 2)
 x **= 2    (x = x ** 2)
 
 Meaning:
+
 += adds and assigns
+
 -= subtracts and assigns
+
 *= multiplies and assigns
+
 /= divides and assigns
+
 **= raises to power and assigns
+
 
 **5. Bitwise Operators**
 These work on the binary bits of numbers.
