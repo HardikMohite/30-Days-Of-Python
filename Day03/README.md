@@ -84,7 +84,7 @@ Meaning:
 /= divides and assigns
 **= raises to power and assigns
 
-**5. Bitwise Operators **
+**5. Bitwise Operators**
 These work on the binary bits of numbers.
 
 Syntax
