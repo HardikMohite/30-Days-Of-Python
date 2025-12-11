@@ -3,12 +3,15 @@ Day 04 – If / Else Statements
 Today we learned decision making in Python using:
 
 if
+
 else
+
 elif
 
 These statements allow the program to take decisions based on conditions.
 
-What is an if statement?
+🔹 What is an if statement?
+
 The if statement checks a condition.
 If the condition is True, the code inside if will run.
 
@@ -16,13 +19,15 @@ Syntax:
 
 if condition:
     statement
-    
+
+
 Example:
 
 if age >= 18:
     print("Adult")
 
-What is an else statement?
+🔹 What is an else statement?
+
 The else block runs only if the if condition becomes False.
 
 Syntax:
@@ -40,7 +45,8 @@ if num > 0:
 else:
     print("Negative")
 
-What is an elif statement?
+🔹 What is an elif statement?
+
 elif means "else if".
 It is used when we need multiple conditions.
 
@@ -63,16 +69,19 @@ elif marks >= 75:
 else:
     print("C")
 
-Programs Covered Today
-
+📘 Programs Covered Today
 ✔ Program 1: Check Positive or Negative
+
 Uses simple if–else.
 
 ✔ Program 2: Check Even or Odd
+
 Uses modulus (%) to check divisibility.
 
 ✔ Program 3: Largest of Two Numbers
+
 Compares two values using > operator.
 
 ✔ Program 4: Grading System
+
 Uses multiple conditions with elif.
