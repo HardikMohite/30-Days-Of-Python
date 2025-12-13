@@ -20,9 +20,9 @@ A pattern program prints symbols (like *, numbers, or characters) in a specific 
 Example:
 
 *
-**
-***
-****
+* *
+* * *
+* * * *
 
 🔹 Why We Use Nested Loops in Patterns
 
@@ -47,11 +47,11 @@ This logic is the same in C, Java, and Python.
 
 Output:
 
-*****
-*****
-*****
-*****
-*****
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
 
 Logic:
 
@@ -66,10 +66,10 @@ Print * in every position
 Output:
 
 *
-**
-***
-****
-*****
+* *
+* * *
+* * * *
+* * * * *
 
 Logic:
 
@@ -81,10 +81,10 @@ Inner loop runs equal to row number
 
 Output:
 
-*****
-****
-***
-**
+* * * * *
+* * * *
+* * *
+* *
 *
 
 Logic:
@@ -99,10 +99,10 @@ Loop runs in reverse order
 
 Output:
 
-*****
-*   *
-*   *
-*****
+* * * * *
+*       *
+*       *
+* * * * *
 
 Logic:
 
